@@ -1,5 +1,9 @@
 # bitsandbytes
 
+***********************
+This is a port of the bitsandbytes repo for compatibilitie with Jetson Xavier.
+***********************
+
 The bitsandbytes is a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions.
 
 
